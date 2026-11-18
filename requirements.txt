@@ -1,0 +1,3 @@
+markdown==3.*
+PyYAML==6.*
+Pillow

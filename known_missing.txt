@@ -1,0 +1,24 @@
+# Shifter 時代の公開サイトでも存在しなかったファイル（テーマCSS・採用ページの古い参照）。表示には影響していない
+../img/common/bg_1.webp
+../img/common/bg_2.webp
+../img/common/bg_3.webp
+../img/common/bg_img_1.webp
+../img/common/bg_img_2.webp
+../img/common/bg_mv_recruit_2.webp
+../img/common/bg_mv_sp.webp
+../img/common/bg_post_recruit_2.webp
+../img/common/bg_section_paper.svg
+../img/common/bg_section_paper_gray.svg
+../img/common/bg_sprite.webp
+../img/common/bg_stripe_orange.webp
+../img/common/bg_sub_header.webp
+../img/common/bg_visual.webp
+../img/common/img_bg_dott_1.svg
+../img/common/img_bg_mv.webp
+../img/common/img_main_bg.webp
+../img/common/img_sdgs_bg_1.webp
+/wp-content/themes/eichiiiTheme/img/common/img_passion_1.jpg
+/wp-content/themes/eichiiiTheme/img/common/img_passion_2.jpg
+/wp-content/themes/eichiiiTheme/img/common/ogp.ico
+/wp-content/themes/eichiiiTheme/img/common/ogp.webp
+/wp-content/themes/eichiiiTheme/img/common/bg_post_recruit_2.webp
